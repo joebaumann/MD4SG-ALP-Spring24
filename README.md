@@ -15,6 +15,8 @@ _tbd_
 ## Invited speakers:
 - Prof. Angela Huyue Zhang (The University of Hong Kong)
 - Prof. Simon Chesterman (National University of Singapore)
+- Prof. Dr. Michèle Finck, LL.M. (University of Tübingen)
+- Sayash Kapoor (Princeton University)
 
 # Organizers:
 If you are interested in joining this working group, please reach out to one of the organizers:
