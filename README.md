@@ -41,6 +41,7 @@ We warmly welcome group member presentation on but not limited to following conc
 _tbd_
 
 ## Invited speakers:
+- Jonas Geiping (ELLIS Institute & MPI-IS Tübingen)
 - Prof. Angela Huyue Zhang (The University of Hong Kong)
 - Prof. Simon Chesterman (National University of Singapore)
 - Prof. Dr. Michèle Finck, LL.M. (University of Tübingen)
